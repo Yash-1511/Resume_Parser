@@ -1,0 +1,6 @@
+streamlit
+spacy
+spacy_transformers
+pandas
+pymupdf
+scikit-learn
